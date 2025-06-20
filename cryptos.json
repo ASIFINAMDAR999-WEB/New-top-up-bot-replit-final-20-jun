@@ -1,0 +1,32 @@
+[
+  {
+    "name": "USDT (TRC20)",
+    "address": "THcpxC6Tzye4vaYxLcP2ufkbhy7XMCVdRc",
+    "qrFileId": null
+  },
+  {
+    "name": "BTC",
+    "address": "bc1q5clkxvk8u9lgfdkq2njutcd0pmxpe08um4mdyw",
+    "qrFileId": null
+  },
+  {
+    "name": "ETH",
+    "address": "0x36da8622EBdD7BF9AA6668fb68Ec18870CCCDAAC",
+    "qrFileId": null
+  },
+  {
+    "name": "TRX",
+    "address": "THcpxC6Tzye4vaYxLcP2ufkbhy7XMCVdRc",
+    "qrFileId": null
+  },
+  {
+    "name": "USDT (ERC20)",
+    "address": "0x36da8622EBdD7BF9AA6668fb68Ec18870CCCDAAC",
+    "qrFileId": null
+  },
+  {
+    "name": "LTC",
+    "address": "ltc1qwumrvhys9nmp7my4pjnzdcepx9zwcwnhnuwxxs",
+    "qrFileId": null
+  }
+]

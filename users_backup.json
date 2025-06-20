@@ -1,0 +1,113 @@
+[
+  [
+    7830539814,
+    {
+      "lang": "en",
+      "waitingForRemoveCrypto": false,
+      "waitingForCrypto": false,
+      "waitingForBroadcast": true,
+      "lastActivity": 1750405646344,
+      "sessionId": 1750405646344
+    }
+  ],
+  [
+    7183774016,
+    {
+      "lang": "en",
+      "plan": "platinum1m",
+      "crypto": "USDT (TRC20)",
+      "lastActivity": 1750310779200,
+      "sessionId": 1750310779200
+    }
+  ],
+  [
+    7750698031,
+    {
+      "lang": "en",
+      "plan": "platinum1m",
+      "crypto": "USDT (TRC20)",
+      "lastActivity": 1750309069505,
+      "sessionId": 1750309069505
+    }
+  ],
+  [
+    6738586877,
+    {
+      "lang": "en",
+      "plan": "gold",
+      "crypto": "BTC"
+    }
+  ],
+  [
+    7303729091,
+    {
+      "lang": "en",
+      "plan": "gold"
+    }
+  ],
+  [
+    680827992,
+    {
+      "lang": "en",
+      "plan": "platinum1m",
+      "crypto": "LTC"
+    }
+  ],
+  [
+    8003094426,
+    {
+      "lang": "en",
+      "plan": "platinum1m",
+      "crypto": "LTC"
+    }
+  ],
+  [
+    6279737212,
+    {
+      "lang": "en",
+      "plan": "gold",
+      "crypto": "LTC"
+    }
+  ],
+  [
+    7210930154,
+    {
+      "lang": "en"
+    }
+  ],
+  [
+    7678584307,
+    {
+      "lang": "en",
+      "lastActivity": 1750309514801,
+      "sessionId": 1750309514801
+    }
+  ],
+  [
+    6797941374,
+    {
+      "lang": "en"
+    }
+  ],
+  [
+    8172418770,
+    {
+      "lang": "en",
+      "sessionId": 1750310428428,
+      "lastActivity": 1750310428428,
+      "joinDate": "2025-06-19T05:02:12.829Z",
+      "plan": "platinum1m"
+    }
+  ],
+  [
+    7528894628,
+    {
+      "lang": "en",
+      "sessionId": 1750405614786,
+      "lastActivity": 1750405614786,
+      "joinDate": "2025-06-20T07:45:11.784Z",
+      "plan": "platinum1m",
+      "crypto": "USDT (ERC20)"
+    }
+  ]
+]
