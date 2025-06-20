@@ -1,0 +1,31 @@
+{
+  "name": "telegram-topup-bot",
+  "version": "1.1.0",
+  "description": "Telegram Top-Up Bot for spoof call plans with multi-language support, dynamic plan management, crypto payments, and admin panel",
+  "main": "index.js",
+  "engines": {
+    "node": ">=16.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "crypto",
+    "topup",
+    "spoofing",
+    "nodejs",
+    "multilingual",
+    "admin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
